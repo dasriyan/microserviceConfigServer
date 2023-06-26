@@ -1,0 +1,2 @@
+# microserviceConfigServer
+Repo for configs
